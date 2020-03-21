@@ -1,4 +1,4 @@
-package br.com.siberiusevent.siberiusevent;
+package br.com.siberius.siberiusevent;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

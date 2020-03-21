@@ -1,4 +1,4 @@
-package br.com.siberiusevent.siberiusevent.core.modelmapper;
+package br.com.siberius.siberiusevent.core.modelmapper;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;

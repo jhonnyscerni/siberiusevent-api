@@ -1,4 +1,4 @@
-package br.com.siberiusevent.siberiusevent;
+package br.com.siberius.siberiusevent;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
