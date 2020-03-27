@@ -18,5 +18,9 @@ public class Estado {
 
     @NotBlank
     @Column(nullable = false)
+    private String sigla;
+
+    @NotBlank
+    @Column(nullable = false)
     private String nome;
 }

@@ -10,9 +10,9 @@ alter table estado auto_increment = 1;
 alter table cidade auto_increment = 1;
 alter table categoria_evento auto_increment = 1;
 
-insert into estado (id, nome) values (1, 'Minas Gerais');
-insert into estado (id, nome) values (2, 'São Paulo');
-insert into estado (id, nome) values (3, 'Ceará');
+insert into estado (id, sigla, nome) values (1, 'SG', 'Minas Gerais');
+insert into estado (id, sigla, nome) values (2, 'SG', 'São Paulo');
+insert into estado (id, sigla, nome) values (3, 'SG', 'Ceará');
 
 insert into cidade (id, nome, estado_id) values (1, 'Uberlândia', 1);
 insert into cidade (id, nome, estado_id) values (2, 'Belo Horizonte', 1);
